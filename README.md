@@ -143,6 +143,8 @@ customer-churn-prediction/
 ├── README.md
 └── .gitignore
 
+---
+
 ##🚀 Conclusion
 
 This project demonstrates an end-to-end machine learning workflow for predicting customer churn.
@@ -150,6 +152,8 @@ This project demonstrates an end-to-end machine learning workflow for predicting
 Multiple machine learning models were trained and compared to understand their performance on the classification task. Random Forest achieved the highest accuracy, while Logistic Regression achieved the highest ROC-AUC score.
 
 The project also highlights how customer data can be transformed into meaningful insights that may help businesses identify customers at risk of churn and support data-driven customer retention strategies.
+
+---
 
 ##👩‍💻 Author
 
