@@ -143,7 +143,7 @@ customer-churn-prediction/
 ├── README.md
 └── .gitignore
 
----
+```text
 
 ##🚀 Conclusion
 
