@@ -143,7 +143,7 @@ customer-churn-prediction/
 ├── README.md
 └── .gitignore
 
-🚀 Conclusion
+##🚀 Conclusion
 
 This project demonstrates an end-to-end machine learning workflow for predicting customer churn.
 
@@ -151,7 +151,7 @@ Multiple machine learning models were trained and compared to understand their p
 
 The project also highlights how customer data can be transformed into meaningful insights that may help businesses identify customers at risk of churn and support data-driven customer retention strategies.
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Kavya Sharma
 
