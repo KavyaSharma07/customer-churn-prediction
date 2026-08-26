@@ -115,3 +115,44 @@ Model Training
 Model Evaluation
    ↓
 Performance Comparison & Business Insights
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Data Visualization
+- Machine Learning
+- Classification
+- Model Comparison
+- Model Evaluation
+- Accuracy and ROC-AUC Analysis
+- Business Insight Generation
+
+---
+
+## 📂 Project Structure
+
+```text
+customer-churn-prediction/
+│
+├── Customer_churn.ipynb
+├── README.md
+└── .gitignore
+
+🚀 Conclusion
+
+This project demonstrates an end-to-end machine learning workflow for predicting customer churn.
+
+Multiple machine learning models were trained and compared to understand their performance on the classification task. Random Forest achieved the highest accuracy, while Logistic Regression achieved the highest ROC-AUC score.
+
+The project also highlights how customer data can be transformed into meaningful insights that may help businesses identify customers at risk of churn and support data-driven customer retention strategies.
+
+👩‍💻 Author
+
+Kavya Sharma
+
+Aspiring Data Scientist | AI & Data Analytics | Machine Learning
