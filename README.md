@@ -134,16 +134,15 @@ Performance Comparison & Business Insights
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```text
 customer-churn-prediction/
-│
 ├── Customer_churn.ipynb
 ├── README.md
 └── .gitignore
 
-```text
+```
 
 ##🚀 Conclusion
 
