@@ -144,7 +144,7 @@ customer-churn-prediction/
 
 ```
 
-##🚀 Conclusion
+## 🚀 Conclusion
 
 This project demonstrates an end-to-end machine learning workflow for predicting customer churn.
 
@@ -154,7 +154,7 @@ The project also highlights how customer data can be transformed into meaningful
 
 ---
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Kavya Sharma
 
